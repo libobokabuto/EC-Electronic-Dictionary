@@ -1,0 +1,422 @@
+[
+  {
+    "word": "apple",
+    "phonetic": "/ˈæp.əl/",
+    "partOfSpeech": "n.",
+    "meanings": [
+      "苹果",
+      "苹果公司（Apple Inc.）"
+    ],
+    "examples": [
+      "An apple a day keeps the doctor away.",
+      "She sliced an apple for breakfast."
+    ],
+    "chineseKeyword": "苹果",
+    "note": "常见基础词，既可表示水果，也常出现在科技语境中。"
+  },
+  {
+    "word": "algorithm",
+    "phonetic": "/ˈæl.ɡə.rɪ.ðəm/",
+    "partOfSpeech": "n.",
+    "meanings": [
+      "算法",
+      "解决问题的一组明确步骤"
+    ],
+    "examples": [
+      "This algorithm improves search efficiency.",
+      "We studied a sorting algorithm in class."
+    ],
+    "chineseKeyword": "算法",
+    "note": "计算机课程中的高频词汇，适合演示技术类查词。"
+  },
+  {
+    "word": "ambition",
+    "phonetic": "/æmˈbɪʃ.ən/",
+    "partOfSpeech": "n.",
+    "meanings": [
+      "抱负",
+      "雄心"
+    ],
+    "examples": [
+      "Her ambition pushed her to keep learning.",
+      "He spoke about his ambition to become an engineer."
+    ],
+    "chineseKeyword": "抱负",
+    "note": "既可用于学习目标，也常用于职业发展表达。"
+  },
+  {
+    "word": "analyze",
+    "phonetic": "/ˈæn.əl.aɪz/",
+    "partOfSpeech": "v.",
+    "meanings": [
+      "分析",
+      "解析"
+    ],
+    "examples": [
+      "Please analyze the task before coding.",
+      "The report analyzes user behavior."
+    ],
+    "chineseKeyword": "分析",
+    "note": "适合软件工程和数据分析场景。"
+  },
+  {
+    "word": "brilliant",
+    "phonetic": "/ˈbrɪl.jənt/",
+    "partOfSpeech": "adj.",
+    "meanings": [
+      "出色的",
+      "聪明的",
+      "明亮的"
+    ],
+    "examples": [
+      "That is a brilliant solution.",
+      "The sky looked brilliant after the rain."
+    ],
+    "chineseKeyword": "出色",
+    "note": "既可形容人的表现，也可形容光线或颜色。"
+  },
+  {
+    "word": "challenge",
+    "phonetic": "/ˈtʃæl.ɪndʒ/",
+    "partOfSpeech": "n./v.",
+    "meanings": [
+      "挑战",
+      "质疑"
+    ],
+    "examples": [
+      "This project is a real challenge.",
+      "She likes to challenge herself."
+    ],
+    "chineseKeyword": "挑战",
+    "note": "在课程项目、比赛和成长语境中都很常见。"
+  },
+  {
+    "word": "courage",
+    "phonetic": "/ˈkʌr.ɪdʒ/",
+    "partOfSpeech": "n.",
+    "meanings": [
+      "勇气",
+      "胆量"
+    ],
+    "examples": [
+      "It takes courage to try something new.",
+      "His courage inspired the whole team."
+    ],
+    "chineseKeyword": "勇气",
+    "note": "适合演示中文关键词反查英文。"
+  },
+  {
+    "word": "curious",
+    "phonetic": "/ˈkjʊə.ri.əs/",
+    "partOfSpeech": "adj.",
+    "meanings": [
+      "好奇的",
+      "求知的"
+    ],
+    "examples": [
+      "Curious students ask better questions.",
+      "She is curious about machine learning."
+    ],
+    "chineseKeyword": "好奇",
+    "note": "与学习、探索、研究等主题关联紧密。"
+  },
+  {
+    "word": "dictionary",
+    "phonetic": "/ˈdɪk.ʃən.er.i/",
+    "partOfSpeech": "n.",
+    "meanings": [
+      "词典",
+      "字典"
+    ],
+    "examples": [
+      "A dictionary helps students build vocabulary.",
+      "This electronic dictionary runs offline."
+    ],
+    "chineseKeyword": "词典",
+    "note": "项目核心主题词，用于演示本软件自身能力。"
+  },
+  {
+    "word": "efficient",
+    "phonetic": "/ɪˈfɪʃ.ənt/",
+    "partOfSpeech": "adj.",
+    "meanings": [
+      "高效的",
+      "效率高的"
+    ],
+    "examples": [
+      "An efficient workflow saves time.",
+      "The new design is more efficient."
+    ],
+    "chineseKeyword": "高效",
+    "note": "输入 eff 时可以很好地演示联想搜索。"
+  },
+  {
+    "word": "example",
+    "phonetic": "/ɪɡˈzɑːm.pəl/",
+    "partOfSpeech": "n.",
+    "meanings": [
+      "例子",
+      "示例"
+    ],
+    "examples": [
+      "Please give me an example sentence.",
+      "This project is a good example of JavaFX."
+    ],
+    "chineseKeyword": "例子",
+    "note": "常与句子展示和教学场景一起使用。"
+  },
+  {
+    "word": "explore",
+    "phonetic": "/ɪkˈsplɔːr/",
+    "partOfSpeech": "v.",
+    "meanings": [
+      "探索",
+      "探究"
+    ],
+    "examples": [
+      "Students can explore English through examples.",
+      "We explored several UI ideas."
+    ],
+    "chineseKeyword": "探索",
+    "note": "适合演示学习型软件的语境。"
+  },
+  {
+    "word": "focus",
+    "phonetic": "/ˈfəʊ.kəs/",
+    "partOfSpeech": "n./v.",
+    "meanings": [
+      "重点",
+      "专注"
+    ],
+    "examples": [
+      "The focus of the app is fast lookup.",
+      "Try to focus on the key requirement."
+    ],
+    "chineseKeyword": "专注",
+    "note": "名词和动词两种词性都很常见。"
+  },
+  {
+    "word": "improve",
+    "phonetic": "/ɪmˈpruːv/",
+    "partOfSpeech": "v.",
+    "meanings": [
+      "改进",
+      "提升"
+    ],
+    "examples": [
+      "We need to improve the search experience.",
+      "Practice helps improve pronunciation."
+    ],
+    "chineseKeyword": "改进",
+    "note": "适合描述第二阶段项目优化内容。"
+  },
+  {
+    "word": "inspire",
+    "phonetic": "/ɪnˈspaɪər/",
+    "partOfSpeech": "v.",
+    "meanings": [
+      "激励",
+      "启发"
+    ],
+    "examples": [
+      "Good software can inspire confidence.",
+      "Her speech inspired the class."
+    ],
+    "chineseKeyword": "启发",
+    "note": "常用于表达积极影响。"
+  },
+  {
+    "word": "learn",
+    "phonetic": "/lɜːn/",
+    "partOfSpeech": "v.",
+    "meanings": [
+      "学习",
+      "得知"
+    ],
+    "examples": [
+      "We learn by building projects.",
+      "Children learn languages quickly."
+    ],
+    "chineseKeyword": "学习",
+    "note": "中文关键词“学习”反查英文的典型示例。"
+  },
+  {
+    "word": "library",
+    "phonetic": "/ˈlaɪ.brər.i/",
+    "partOfSpeech": "n.",
+    "meanings": [
+      "图书馆",
+      "库，程序库"
+    ],
+    "examples": [
+      "The university library stays open late.",
+      "This project uses a JSON parsing library."
+    ],
+    "chineseKeyword": "图书馆",
+    "note": "在程序开发中也可指代码库或依赖库。"
+  },
+  {
+    "word": "network",
+    "phonetic": "/ˈnet.wɜːk/",
+    "partOfSpeech": "n./v.",
+    "meanings": [
+      "网络",
+      "建立联系"
+    ],
+    "examples": [
+      "The app can fall back to a network lookup.",
+      "Students network through online communities."
+    ],
+    "chineseKeyword": "网络",
+    "note": "第二阶段新增联网能力时会频繁出现。"
+  },
+  {
+    "word": "offline",
+    "phonetic": "/ˌɒfˈlaɪn/",
+    "partOfSpeech": "adj./adv.",
+    "meanings": [
+      "离线的",
+      "不联网地"
+    ],
+    "examples": [
+      "The dictionary still works offline.",
+      "Please keep an offline copy for the demo."
+    ],
+    "chineseKeyword": "离线",
+    "note": "用于强调本地词库的基础能力。"
+  },
+  {
+    "word": "performance",
+    "phonetic": "/pəˈfɔː.məns/",
+    "partOfSpeech": "n.",
+    "meanings": [
+      "性能",
+      "表现"
+    ],
+    "examples": [
+      "Caching can improve performance.",
+      "Her performance in class was impressive."
+    ],
+    "chineseKeyword": "性能",
+    "note": "既可用于系统优化，也可用于一般表达。"
+  },
+  {
+    "word": "project",
+    "phonetic": "/ˈprɒdʒ.ekt/",
+    "partOfSpeech": "n.",
+    "meanings": [
+      "项目",
+      "课题"
+    ],
+    "examples": [
+      "This project uses JavaFX and Maven.",
+      "Our final project needs a desktop package."
+    ],
+    "chineseKeyword": "项目",
+    "note": "课程作业与软件作品场景中的核心词。"
+  },
+  {
+    "word": "result",
+    "phonetic": "/rɪˈzʌlt/",
+    "partOfSpeech": "n.",
+    "meanings": [
+      "结果",
+      "成果"
+    ],
+    "examples": [
+      "The result panel shows meanings and examples.",
+      "Please compare the local and online results."
+    ],
+    "chineseKeyword": "结果",
+    "note": "适合演示统一查询结果模型。"
+  },
+  {
+    "word": "software",
+    "phonetic": "/ˈsɒft.weər/",
+    "partOfSpeech": "n.",
+    "meanings": [
+      "软件"
+    ],
+    "examples": [
+      "This software is built for classroom demonstration.",
+      "We want the software to feel like a real app."
+    ],
+    "chineseKeyword": "软件",
+    "note": "第二阶段目标之一就是让项目更像正式软件。"
+  },
+  {
+    "word": "translate",
+    "phonetic": "/trænzˈleɪt/",
+    "partOfSpeech": "v.",
+    "meanings": [
+      "翻译",
+      "转化"
+    ],
+    "examples": [
+      "The online service can translate unknown words.",
+      "Please translate the sentence into Chinese."
+    ],
+    "chineseKeyword": "翻译",
+    "note": "联网兜底能力的关键动词。"
+  },
+  {
+    "word": "user",
+    "phonetic": "/ˈjuː.zər/",
+    "partOfSpeech": "n.",
+    "meanings": [
+      "用户",
+      "使用者"
+    ],
+    "examples": [
+      "The user can double-click the launcher to open the app.",
+      "Clear status messages help the user."
+    ],
+    "chineseKeyword": "用户",
+    "note": "适合描述交互设计与使用体验。"
+  },
+  {
+    "word": "vocabulary",
+    "phonetic": "/vəˈkæb.jə.lər.i/",
+    "partOfSpeech": "n.",
+    "meanings": [
+      "词汇",
+      "词汇量"
+    ],
+    "examples": [
+      "Reading helps build vocabulary.",
+      "The dictionary expands your vocabulary bank."
+    ],
+    "chineseKeyword": "词汇",
+    "note": "与学习英语最直接相关的高频词。"
+  },
+  {
+    "word": "window",
+    "phonetic": "/ˈwɪn.dəʊ/",
+    "partOfSpeech": "n.",
+    "meanings": [
+      "窗口",
+      "窗户"
+    ],
+    "examples": [
+      "The application window now shows source information.",
+      "Open the window to let in some fresh air."
+    ],
+    "chineseKeyword": "窗口",
+    "note": "桌面应用开发中的常见术语。"
+  },
+  {
+    "word": "workflow",
+    "phonetic": "/ˈwɜːk.fləʊ/",
+    "partOfSpeech": "n.",
+    "meanings": [
+      "工作流",
+      "流程"
+    ],
+    "examples": [
+      "An efficient workflow saves time.",
+      "The packaging workflow is now documented."
+    ],
+    "chineseKeyword": "流程",
+    "note": "适合描述开发、打包和演示流程。"
+  }
+]
